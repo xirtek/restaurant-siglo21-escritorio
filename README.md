@@ -1,4 +1,4 @@
-# Sistema Restaurant Siglo XX1 (Escritorio)
+# Sistema Restaurant Siglo XXI (Escritorio)
 
 Aplicación de escritorio para el ramo Portafolio de Título 2019.
 
