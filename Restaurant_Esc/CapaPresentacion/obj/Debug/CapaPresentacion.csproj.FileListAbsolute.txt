@@ -1,0 +1,142 @@
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorMesa.resources
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\xirtek\source\repos\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.MantenedorMesa.resources
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Antonio\Desktop\Restaurant\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminPrincipal.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminCrud.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminCrud.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminPrincipal.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorBebestible.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCategoria.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPerfil.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPlato.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProducto.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProveedor.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorTrabajador.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaMantenedorProducto.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminCrud.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorBebestible.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCategoria.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPerfil.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPlato.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProducto.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProveedor.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorTrabajador.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaMantenedorProducto.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCliente.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPostre.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCliente.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPostre.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorBebestible.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCategoria.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPerfil.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPlato.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProducto.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProveedor.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorTrabajador.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaMantenedorProducto.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaPrincipal.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorMesa.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorMesa.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorUsuario.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.IniciarSesion.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorUsuario.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.IniciarSesion.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorReserva.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPedido.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorVenta.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPedido.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorReserva.resources
+C:\Users\Antonio\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorVenta.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorOrden.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCargo.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaSolicitud.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminSolicitudProducto.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminReporte.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorPrincipal.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorMantenedorReserva.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorMantenedorClientes.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminCrud.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCargo.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCliente.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorMesa.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorOrden.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPedido.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPostre.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorReserva.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorUsuario.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorVenta.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorBebestible.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorCategoria.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPerfil.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorPlato.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProducto.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorProveedor.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminMantenedorTrabajador.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminReporte.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminSolicitudProducto.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaMantenedorProducto.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaSolicitud.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.IniciarSesion.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorMantenedorClientes.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorMantenedorReserva.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.OperadorPrincipal.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Ulrich\Documents\Restaurant_esc\aplicacion_escritorio\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.BodegaGenerarSolicitud.resources
+C:\Users\xirtek\Documents\Restaurant Siglo XXI\aplicacion_escritorio\Restaurant_Esc\CapaPresentacion\obj\Debug\CapaPresentacion.AdminEstadisticas.resources
